@@ -1,0 +1,1180 @@
+[
+    {
+        "question": "Quem foi o primeiro homem criado por Deus?",
+        "answers": [
+            {
+                "text": "Adão"
+            },
+            {
+                "text": "Noé"
+            },
+            {
+                "text": "Moisés"
+            },
+            {
+                "text": "Abraão"
+            }
+        ],
+        "correctAnswer": 0,
+        "id": 1
+    },
+    {
+        "question": "Qual é o primeiro livro da Bíblia?",
+        "answers": [
+            {
+                "text": "Gênesis"
+            },
+            {
+                "text": "Êxodo"
+            },
+            {
+                "text": "Levítico"
+            },
+            {
+                "text": "Salmos"
+            }
+        ],
+        "correctAnswer": 0,
+        "id": 2
+    },
+    {
+        "question": "Quem traiu Jesus?",
+        "answers": [
+            {
+                "text": "Pedro"
+            },
+            {
+                "text": "Judas"
+            },
+            {
+                "text": "Paulo"
+            },
+            {
+                "text": "Tiago"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 3
+    },
+    {
+        "question": "Quem foi o profeta que desafiou os profetas de Baal no Monte Carmelo?",
+        "answers": [
+            {
+                "text": "Isaías"
+            },
+            {
+                "text": "Elías"
+            },
+            {
+                "text": "Jeremias"
+            },
+            {
+                "text": "Ezequiel"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 4
+    },
+    {
+        "question": "Qual o significado do nome de Deus?",
+        "answers": [
+            {
+                "text": "Ele fez e faz todas as coisa"
+            },
+            {
+                "text": "ele faz com que venha a ser"
+            },
+            {
+                "text": "Ele é o Deus dos céus"
+            },
+            {
+                "text": "Jeová Providenciará"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 5
+    },
+    {
+        "question": "Quantas pessoas foram salvas na arca de Noé?",
+        "answers": [
+            {
+                "text": "10"
+            },
+            {
+                "text": "5"
+            },
+            {
+                "text": "3"
+            },
+            {
+                "text": "8"
+            }
+        ],
+        "correctAnswer": 3,
+        "id": 6
+    },
+    {
+        "question": "Com quantos anos Jesus foi batizado?",
+        "answers": [
+            {
+                "text": "25"
+            },
+            {
+                "text": "33"
+            },
+            {
+                "text": "30"
+            },
+            {
+                "text": "31"
+            }
+        ],
+        "correctAnswer": 2,
+        "id": 7
+    },
+    {
+        "question": "Quem sou eu: Fui muito abençoada por demonstrar hospitalidade ao servo do verdadeiro Deus?",
+        "answers": [
+            {
+                "text": "Jezabel"
+            },
+            {
+                "text": "Sara"
+            },
+            {
+                "text": "A viúva de sarefá"
+            },
+            {
+                "text": "Eva"
+            }
+        ],
+        "correctAnswer": 2,
+        "id": 8
+    },
+    {
+        "question": "No sonho da grande estátua de Nabucodonozor, os pés sendo uma mistura de ferro e Argila, representa quais potências?",
+        "answers": [
+            {
+                "text": "Alemanha e União Soviética"
+            },
+            {
+                "text": "Russia e Estados Unidos"
+            },
+            {
+                "text": "Clássico Brasil e Argentina"
+            },
+            {
+                "text": "Grã-Bretanha e Estados Unidos"
+            }
+        ],
+        "correctAnswer": 3,
+        "id": 9
+    },
+    {
+        "question": "Em que ano o messias aperece no cenário mundial?",
+        "answers": [
+            {
+                "text": "33 EC quando Jesus é batizado"
+            },
+            {
+                "text": "Em 29 EC"
+            },
+            {
+                "text": "2 EC"
+            },
+            {
+                "text": "Nenhum das respostas"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 10
+    },
+    {
+        "question": "Atualmente quem representa o rei do norte mencionado na profecia de Daniel no capítulo 11?",
+        "answers": [
+            {
+                "text": "Alemanha e União Soviética"
+            },
+            {
+                "text": "Russia"
+            },
+            {
+                "text": "Brasil"
+            },
+            {
+                "text": "Estados Unidos"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 11
+    },
+    {
+        "question": "Quem sou eu: Jeová não me deu o dom da fala mas, por tres vezes espancada ele me impôs a fala?",
+        "answers": [
+            {
+                "text": "A Jumenta de Balaão"
+            },
+            {
+                "text": "Sara"
+            },
+            {
+                "text": "O anjo de jeová"
+            },
+            {
+                "text": "Jezabel"
+            }
+        ],
+        "correctAnswer": 0,
+        "id": 12
+    },
+    {
+        "question": "Quantos anos tinha o homem mais velho da biblia, Metusalém?",
+        "answers": [
+            {
+                "text": "696 Anos"
+            },
+            {
+                "text": "969 Anos"
+            },
+            {
+                "text": "865 Anos"
+            },
+            {
+                "text": "930 Anos"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 13
+    },
+    {
+        "question": "Com quantos anos Abraão se tornaram pai de Isaque?",
+        "answers": [
+            {
+                "text": "99 Anos"
+            },
+            {
+                "text": "150 Anos"
+            },
+            {
+                "text": "100 Anos"
+            },
+            {
+                "text": "90 Anos"
+            }
+        ],
+        "correctAnswer": 2,
+        "id": 14
+    },
+    {
+        "question": "Qual o nome do pai de Abraão?",
+        "answers": [
+            {
+                "text": "Ismael"
+            },
+            {
+                "text": "Tera"
+            },
+            {
+                "text": "Harã"
+            },
+            {
+                "text": "Naor"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 15
+    },
+    {
+        "question": "Quantos Anos Sara viveu??",
+        "answers": [
+            {
+                "text": "99 Anos"
+            },
+            {
+                "text": "127 Anos"
+            },
+            {
+                "text": "233 Anos"
+            },
+            {
+                "text": "75 Anos"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 16
+    },
+    {
+        "question": "Quem sou eu: causei grendes problemas à minha familia por me associar com amizades ruins?",
+        "answers": [
+            {
+                "text": "Mical"
+            },
+            {
+                "text": "Diná"
+            },
+            {
+                "text": "A esposa de Potifá"
+            },
+            {
+                "text": "Sofia"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 17
+    },
+    {
+        "question": "Quais foram as palavras escritas na parede em Daniel 5:25?",
+        "answers": [
+            {
+                "text": "MANÁ, MENE, PARSSIRA E TAKA"
+            },
+            {
+                "text": "BABA, BIBI, HAVA E TEKEL"
+            },
+            {
+                "text": "JAVÉ, JIRÉ, EDOM E TELL"
+            },
+            {
+                "text": "MENE, MENE, TEQUEL E PARSIM"
+            }
+        ],
+        "correctAnswer": 3,
+        "id": 18
+    },
+    {
+        "question": "Por quanto tempo cairam as águas do dilúvio na terra?",
+        "answers": [
+            {
+                "text": "80 dias"
+            },
+            {
+                "text": "40 dias e 40 noites"
+            },
+            {
+                "text": "350 dias"
+            },
+            {
+                "text": "Duas semanas"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 19
+    },
+    {
+        "question": "Por quanto tempo Jacó precisou trabalhar para conseguir finalmente casar com Raquel?",
+        "answers": [
+            {
+                "text": "7 anos"
+            },
+            {
+                "text": "Duas dúzias de anos"
+            },
+            {
+                "text": "14 anos"
+            },
+            {
+                "text": "7 tempos"
+            }
+        ],
+        "correctAnswer": 2,
+        "id": 20
+    },
+    {
+        "question": "Quanto tempo José ficou preso?",
+        "answers": [
+            {
+                "text": "13 anos"
+            },
+            {
+                "text": "40 dias"
+            },
+            {
+                "text": "10 anos"
+            },
+            {
+                "text": "1 mês"
+            }
+        ],
+        "correctAnswer": 0,
+        "id": 21
+    },
+    {
+        "question": "Quem recebeu o nome de Zafenate Paneia?",
+        "answers": [
+            {
+                "text": "Paulo ao chegar à icônio"
+            },
+            {
+                "text": "Nome de hananias em bebilônia"
+            },
+            {
+                "text": "José após decifrar os sonhos de Faraó"
+            },
+            {
+                "text": "Artaxerxes 1"
+            }
+        ],
+        "correctAnswer": 2,
+        "id": 22
+    },
+    {
+        "question": "De qual das 12 tribos de Israel descendeu o messias?",
+        "answers": [
+            {
+                "text": "Aser"
+            },
+            {
+                "text": "Curumim"
+            },
+            {
+                "text": "Tatuapu"
+            },
+            {
+                "text": "Judá"
+            }
+        ],
+        "correctAnswer": 3,
+        "id": 23
+    },
+    {
+        "question": "Qual a segunda das 10 pragas lançadas no Egito?",
+        "answers": [
+            {
+                "text": "trasnformar agua do rio nilo em sangue"
+            },
+            {
+                "text": "Rãs"
+            },
+            {
+                "text": "Morte dos primogênitos"
+            },
+            {
+                "text": "Moscões"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 24
+    },
+    {
+        "question": "O que significa o nome Êxodo?",
+        "answers": [
+            {
+                "text": "Saída, partida"
+            },
+            {
+                "text": "Livramento"
+            },
+            {
+                "text": "Libertação"
+            },
+            {
+                "text": "Chegada"
+            }
+        ],
+        "correctAnswer": 0,
+        "id": 25
+    },
+    {
+        "question": "Como é chamado os 5 primeiros livros da biblia?",
+        "answers": [
+            {
+                "text": "Conjunto inspirado"
+            },
+            {
+                "text": "FIVE"
+            },
+            {
+                "text": "biblioteca do quintêto"
+            },
+            {
+                "text": "Pentateuco"
+            }
+        ],
+        "correctAnswer": 3,
+        "id": 26
+    },
+    {
+        "question": "Complete o proverbio: Seja sábo meu filho, e alegre meu coração....?",
+        "answers": [
+            {
+                "text": "Pois ele bate forte por ti"
+            },
+            {
+                "text": "e você vai ser feliz e bem sucedido"
+            },
+            {
+                "text": "Para que eu possa dar uma resposta àquele que me desafia"
+            },
+            {
+                "text": "para que te vá bem na terra"
+            }
+        ],
+        "correctAnswer": 2,
+        "id": 27
+    },
+    {
+        "question": "complete o proverbio: Quem é preudente vê o perigo e se esconde,.......?",
+        "answers": [
+            {
+                "text": "Mas os inexperientes vão em frente e sofrem as consequências"
+            },
+            {
+                "text": "mas os inexperientes sempre conseguem adiquirir mais experiência"
+            },
+            {
+                "text": "mas nem sempre dar certo"
+            },
+            {
+                "text": "e recebe as bençãos de Jeová"
+            }
+        ],
+        "correctAnswer": 0,
+        "id": 28
+    },
+    {
+        "question": "Em que ano passamos a usar o nome Testemunhas de Jeová?",
+        "answers": [
+            {
+                "text": "1931"
+            },
+            {
+                "text": "1914"
+            },
+            {
+                "text": "2005"
+            },
+            {
+                "text": "1975"
+            }
+        ],
+        "correctAnswer": 0,
+        "id": 29
+    },
+    {
+        "question": "Quais Profetas aparaceram conversando com Jesus por ocasião da trasnfiguração?",
+        "answers": [
+            {
+                "text": "Elias e Elizeu"
+            },
+            {
+                "text": "Abraão e Jacó"
+            },
+            {
+                "text": "Moisés e Elias"
+            },
+            {
+                "text": "Miguel e Gabriel"
+            }
+        ],
+        "correctAnswer": 2,
+        "id": 30
+    },
+    {
+        "question": "O que significa a sigla JW do nosso site?",
+        "answers": [
+            {
+                "text": "Jogo da Web"
+            },
+            {
+                "text": "Jehova Witnesses"
+            },
+            {
+                "text": "José wellington"
+            },
+            {
+                "text": "nenhuma das opções"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 31
+    },
+    {
+        "question": "Quantos soldados assírios o anjo de Jeová matou em apenas uma noite?",
+        "answers": [
+            {
+                "text": "295 soldados"
+            },
+            {
+                "text": "185 mil soldados"
+            },
+            {
+                "text": "350 mil soldados"
+            },
+            {
+                "text": "158 mil soldados"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 32
+    },
+    {
+        "question": "O que significa Apocalipse na biblia?",
+        "answers": [
+            {
+                "text": "Exposição, Revelação"
+            },
+            {
+                "text": "Fim do mundo"
+            },
+            {
+                "text": "Ultimos dias"
+            },
+            {
+                "text": "Jesus vem"
+            }
+        ],
+        "correctAnswer": 0,
+        "id": 33
+    },
+    {
+        "question": "Na profecia dos cavaleiros do apocalipse, o que representa o cavaleiro do cavalo cor de fogo?",
+        "answers": [
+            {
+                "text": "Fome"
+            },
+            {
+                "text": "Jesus"
+            },
+            {
+                "text": "Guerras"
+            },
+            {
+                "text": "A morte"
+            }
+        ],
+        "correctAnswer": 2,
+        "id": 34
+    },
+    {
+        "question": "O tetragrama que representa o nome de Deus em hebraico, corresponde a que letras do nosso alfabeto?",
+        "answers": [
+            {
+                "text": "A B C D"
+            },
+            {
+                "text": "Y H W H"
+            },
+            {
+                "text": "M J B D"
+            },
+            {
+                "text": "M D I F"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 35
+    },
+    {
+        "question": "Quantos livros possuem as escrituras hebraicas?",
+        "answers": [
+            {
+                "text": "66 livros"
+            },
+            {
+                "text": "12 livros"
+            },
+            {
+                "text": "39 livros"
+            },
+            {
+                "text": "nenhuma das opções"
+            }
+        ],
+        "correctAnswer": 2,
+        "id": 36
+    },
+    {
+        "question": "Quantos livros possuem as escrituras Gregas cristãs?",
+        "answers": [
+            {
+                "text": "27 livros"
+            },
+            {
+                "text": "12 livros"
+            },
+            {
+                "text": "39 livros"
+            },
+            {
+                "text": "35 livros"
+            }
+        ],
+        "correctAnswer": 0,
+        "id": 37
+    },
+    {
+        "question": "Quantos livros tem a biblia?",
+        "answers": [
+            {
+                "text": "66 livros"
+            },
+            {
+                "text": "65 livros"
+            },
+            {
+                "text": "Nenhum das respostas"
+            },
+            {
+                "text": "80 livros"
+            }
+        ],
+        "correctAnswer": 0,
+        "id": 38
+    },
+    {
+        "question": "Qual nome o anjo deu a Jacó?",
+        "answers": [
+            {
+                "text": "Jaconias"
+            },
+            {
+                "text": "Ismael"
+            },
+            {
+                "text": "Israel"
+            },
+            {
+                "text": "Nabonido"
+            }
+        ],
+        "correctAnswer": 2,
+        "id": 39
+    },
+    {
+        "question": "Qual o nome do filho mais velho de Jacó?",
+        "answers": [
+            {
+                "text": "Rúben"
+            },
+            {
+                "text": "Marcos"
+            },
+            {
+                "text": "Aspenás"
+            },
+            {
+                "text": "José"
+            }
+        ],
+        "correctAnswer": 0,
+        "id": 40
+    },
+    {
+        "question": "Quantas esposas teve o Rei Salomão?",
+        "answers": [
+            {
+                "text": "700 Esposas"
+            },
+            {
+                "text": "1000 mulheres"
+            },
+            {
+                "text": "1500 Esposas"
+            },
+            {
+                "text": "nenhuma das opções"
+            }
+        ],
+        "correctAnswer": 0,
+        "id": 41
+    },
+    {
+        "question": "Quais são os itens da Armadura completa de Deus?",
+        "answers": [
+            {
+                "text": "Centurão da verdade,Couraça da Justiça, Capacete da Salvação, pés calçados com a prontidão, escudo da fé e a espada do espirito"
+            },
+            {
+                "text": "Couraça da justiça, escudo de golias, espada de samurai"
+            },
+            {
+                "text": "Centurão da verdade, capacete da salvação, espada do rei artur"
+            },
+            {
+                "text": "Escudo da fé, Espada da justiça, sandalhas da bondade, Capacete da esperança"
+            }
+        ],
+        "correctAnswer": 0,
+        "id": 42
+    },
+    {
+        "question": "Qual era profissão do Apostolo Mateus?",
+        "answers": [
+            {
+                "text": "Carpinteiro"
+            },
+            {
+                "text": "Banqueiro"
+            },
+            {
+                "text": "Cobrador de impostos"
+            },
+            {
+                "text": "Guarda do templo"
+            }
+        ],
+        "correctAnswer": 2,
+        "id": 43
+    },
+    {
+        "question": "Qual apostolo de Jesus foi chamado por ele de Verdadeiro Israelita, sem falsidade?",
+        "answers": [
+            {
+                "text": "Tiago"
+            },
+            {
+                "text": "Natanael"
+            },
+            {
+                "text": "Tadeu"
+            },
+            {
+                "text": "Bartolomeu"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 44
+    },
+    {
+        "question": "No milagre da multiplicação, quantos pães e peixes Jesus usou?",
+        "answers": [
+            {
+                "text": "1kg de peixe e dois reais de pão"
+            },
+            {
+                "text": "Cinco pães e Dois peixes"
+            },
+            {
+                "text": "Cinco pães e 1 peixes"
+            },
+            {
+                "text": "Sete pães e 2 peixes"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 45
+    },
+    {
+        "question": "Quantos apóstolos teve Jesus?",
+        "answers": [
+            {
+                "text": "10 Apóstolos"
+            },
+            {
+                "text": "12 Apóstolos"
+            },
+            {
+                "text": "13 Apóstolos"
+            },
+            {
+                "text": "14 Apóstolos"
+            }
+        ],
+        "correctAnswer": 2,
+        "id": 46
+    },
+    {
+        "question": "Por quantas moedas de ouro Jesus foi traido?",
+        "answers": [
+            {
+                "text": "30 moedas"
+            },
+            {
+                "text": "20 moedas"
+            },
+            {
+                "text": "Nenhuma moeda"
+            },
+            {
+                "text": "uma de 15 e uma de 25"
+            }
+        ],
+        "correctAnswer": 2,
+        "id": 47
+    },
+    {
+        "question": "No passado, a fera cor de escarlate em Apocalipse capitulo 17, simbolizava as Liga das Nações. Quem ela representa hoje?",
+        "answers": [
+            {
+                "text": "O papa"
+            },
+            {
+                "text": "As religiões falsas"
+            },
+            {
+                "text": "O sistema Político"
+            },
+            {
+                "text": "A Organização das Nações Unidas (ONU)"
+            }
+        ],
+        "correctAnswer": 3,
+        "id": 48
+    },
+    {
+        "question": "Em que ano começou a funcionar a escola biblica de Gileade?",
+        "answers": [
+            {
+                "text": "1914"
+            },
+            {
+                "text": "33 EC"
+            },
+            {
+                "text": "1943"
+            },
+            {
+                "text": "1931"
+            }
+        ],
+        "correctAnswer": 2,
+        "id": 49
+    },
+    {
+        "question": "Em 1931, ano em que adotamos o nome Testemunhas de Jeová, quem atuava como presidente da Torre de Vigia?",
+        "answers": [
+            {
+                "text": "Nathan knor"
+            },
+            {
+                "text": "Charles T. Russel"
+            },
+            {
+                "text": "Gilson Marques"
+            },
+            {
+                "text": "Joseph Rutheford"
+            }
+        ],
+        "correctAnswer": 3,
+        "id": 50
+    },
+    {
+        "question": "De quem Lucas falava quando disse: 'Estes tinham uma mentalidade mais nobre'?",
+        "answers": [
+            {
+                "text": "os Gregos de Atenas"
+            },
+            {
+                "text": "os Judeus de Bereia"
+            },
+            {
+                "text": "Os Assírios"
+            },
+            {
+                "text": "Os cristãos em Corinto"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 51
+    },
+    {
+        "question": "Qual a disciplina que o anjo Gabriel aplicou em zacarias por ele ter duvidado da sua mensagem?",
+        "answers": [
+            {
+                "text": "Ficou cego"
+            },
+            {
+                "text": "Pegou lepra"
+            },
+            {
+                "text": "Ficou mudo"
+            },
+            {
+                "text": "Nenhuma das opções"
+            }
+        ],
+        "correctAnswer": 2,
+        "id": 52
+    },
+    {
+        "question": "Quem sou eu: Embora tenha adiquirido muito conhecimento das escrituras a ponto de me tornar um eloquente pregador, precisei estudar coim um casal dde pioneiros zelosos?",
+        "answers": [
+            {
+                "text": "Saulo"
+            },
+            {
+                "text": "Apolo"
+            },
+            {
+                "text": "Demas"
+            },
+            {
+                "text": "Àquila e Priscila"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 53
+    },
+    {
+        "question": "Quem sou eu: Caí de uma janela durante a reunião no salão do reino?",
+        "answers": [
+            {
+                "text": "Timóteo"
+            },
+            {
+                "text": "Êutico"
+            },
+            {
+                "text": "Lucas"
+            },
+            {
+                "text": "João Marcos"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 54
+    },
+    {
+        "question": "Qual era o sabor do maná?",
+        "answers": [
+            {
+                "text": "Chocolate com pimenta"
+            },
+            {
+                "text": "Leite e mel"
+            },
+            {
+                "text": "Bolachas de mel e vinagre"
+            },
+            {
+                "text": "bolachas de Mel ou bolo doce com azeite"
+            }
+        ],
+        "correctAnswer": 3,
+        "id": 55
+    },
+    {
+        "question": "Como se chamava o local do tabernáculo onde ficava a arca do pacto?",
+        "answers": [
+            {
+                "text": "Santíssimo"
+            },
+            {
+                "text": "casa de David"
+            },
+            {
+                "text": "Monte moriá"
+            },
+            {
+                "text": "Santo"
+            }
+        ],
+        "correctAnswer": 0,
+        "id": 56
+    },
+    {
+        "question": "Qual o significado do nome Arcanjo?",
+        "answers": [
+            {
+                "text": "Anjo da Arca"
+            },
+            {
+                "text": "Anjo Guerreiro"
+            },
+            {
+                "text": "Anjo Principal"
+            },
+            {
+                "text": "Anjo da Arcádia"
+            }
+        ],
+        "correctAnswer": 2,
+        "id": 57
+    },
+    {
+        "question": "Quantos Juizes foram designados sobre Israel?",
+        "answers": [
+            {
+                "text": "10"
+            },
+            {
+                "text": "5"
+            },
+            {
+                "text": "12"
+            },
+            {
+                "text": "7"
+            }
+        ],
+        "correctAnswer": 2,
+        "id": 58
+    },
+    {
+        "question": "Na destruição das muralhas de Jericó, o que serviria de sinal para poupar a vida de Raabe e sua família?",
+        "answers": [
+            {
+                "text": "O parapeito da janela pitada de sangue"
+            },
+            {
+                "text": "A corda de fio escarlate"
+            },
+            {
+                "text": "Ela e sua familia estaria esperando na janela"
+            },
+            {
+                "text": "Nenhuma das respostas"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 59
+    },
+    {
+        "question": "Por quantos anos os israelitas vagaram pelo deserto?",
+        "answers": [
+            {
+                "text": "80 anos"
+            },
+            {
+                "text": "Quatro decadas"
+            },
+            {
+                "text": "45 anos"
+            },
+            {
+                "text": "Nenhuma das respostas"
+            }
+        ],
+        "correctAnswer": 1,
+        "id": 60
+    },
+    {
+        "question": "Quem foi o primeiro rei de Israel?",
+        "answers": [
+            {
+                "text": "Davi"
+            },
+            {
+                "text": "Salomão"
+            },
+            {
+                "text": "zedequias"
+            },
+            {
+                "text": "Saul"
+            }
+        ],
+        "correctAnswer": 3,
+        "id": 61
+    },
+    {
+        "question": "Qual foi o alimento de João Batista no deserto? ",
+        "answers": [
+            {
+                "text": "Gafanhotos e Mel silvestre"
+            },
+            {
+                "text": "Tanajuras e Leite de Aveloz"
+            },
+            {
+                "text": "Gafanhotos e Lagartos"
+            },
+            {
+                "text": "Nenhuma das opções"
+            }
+        ],
+        "correctAnswer": 0,
+        "id": 62
+    }
+]
