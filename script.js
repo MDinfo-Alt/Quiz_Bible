@@ -6,8 +6,8 @@ let usedQuestions = []; // Armazena os índices das perguntas já usadas
 let consecutiveErrors = 0;  // Para contar os erros consecutivos
 
 // Sons para respostas corretas e erradas
-const correctSound = new Audio('sounds/respostacerta.mp3'); // Som de resposta certa
-const wrongSound = new Audio('sounds/respostaerrada.mp3'); // Som de resposta errada
+const correctSound = new Audio('respostacerta.mp3'); // Som de resposta certa
+const wrongSound = new Audio('respostaerrada.mp3'); // Som de resposta errada
 
 // Função para embaralhar as perguntas
 function shuffle(array) {
