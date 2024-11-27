@@ -82,3 +82,12 @@ body {
 #score span {
     font-weight: bold;
 }
+
+@media (max-width: 768px) {
+    body {
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+                    url('homem.webp') center top no-repeat;
+        background-size: cover;
+    }
+}
+
